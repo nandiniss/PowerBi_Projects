@@ -19,8 +19,8 @@ The dashboards provide valuable insights into sales, customer details , inventor
 
 ** How to Use**
 
-Download the .pbix files from this repository.
-Open in Power BI Desktop.
-Connect to the data source (if required).
-Refresh data & explore the insights.
-(Optional) Publish the report to Power BI Service for online access.
+	Download the .pbix files from this repository.
+	Open in Power BI Desktop.
+	Connect to the data source (if required).
+	Refresh data & explore the insights.
+	(Optional) Publish the report to Power BI Service for online access.
